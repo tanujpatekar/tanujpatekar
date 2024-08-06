@@ -92,6 +92,3 @@ My journey in data analysis began with a genuine curiosity about the world aroun
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
