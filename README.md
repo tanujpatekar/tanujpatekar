@@ -27,20 +27,23 @@ My journey in data analysis began with a genuine curiosity about the world aroun
 
 - 🔭 I love working on various types of Data irrespective of its source.    
   
-
 - 🌱 I’m currently looking for Data Analyst Role.  
   
-
 - ❓ Ask me about anything related to Data Analysis and related technologies.   
   
+- ⚡ Fun fact: I use tabs over spaces.
 
-- ⚡ Fun fact: I use tabs over spaces.   
+- 🔧 Proficient in data cleaning and preprocessing.
+
+- 🌐 Analyzing data from various domains: e-commerce, finance, hospitality
+
+
 
 
 </td><td valign="top" width="50%">
 
 <div align="right">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdsdjB6Mnhmd3ZvYXYwc3J2eng2YnViZ2k0ZHB6ZjVnYTRwbDN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" align="right" height="300" width="500" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdsdjB6Mnhmd3ZvYXYwc3J2eng2YnViZ2k0ZHB6ZjVnYTRwbDN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" align="right" height="330" width="500" />
 </div>  
 
 
