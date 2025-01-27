@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Tanuj Patekar!
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt0Z2F2OGQwczh4ZTk0Z3BhZ2s1NzBvNDRyMjl5ZHhlOTgzeWNkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.webp" align="center" height="400" width="800" />  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZoZXV0enE0eXZzM2ozZXpzejl2amVybXhldjFlZ3hzdXNhZ2NjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" align="center" height="400" width="800" />  
 
   
 
